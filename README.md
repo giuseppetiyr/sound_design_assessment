@@ -2,7 +2,7 @@
 
 ## Playgame
 
-Just press play and enjoy the sound environment.
+Start Unity, click open select this folder and again "open". Just press play and enjoy the sound environment.
 
 There are 2 Atmos tracks for day and night, they are slightly different, the field atmosphere is different to distinguish the 2 parts of the day, but the main core is really similar to keep the patient's relaxation / distraction mood.
 
