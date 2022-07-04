@@ -4429,8 +4429,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f86e91f30390440ca561f13b0865a98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiAudioSource: {fileID: 0}
-  clickSound: {fileID: 8300000, guid: 26812dfa26e8248edb81d587533d55d1, type: 3}
+  uiAudioSource: {fileID: 976243517}
+  clickSound: {fileID: 8300000, guid: 3227e3955d6ee4ae6a2d090743c0fca5, type: 3}
+--- !u!82 &976243517 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 971910187668088349, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e,
+    type: 3}
+  m_PrefabInstance: {fileID: 976243511}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &996177550
 Mesh:
   m_ObjectHideFlags: 0
@@ -11373,6 +11379,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6331163739044684012, guid: 64fb001c79f9ab640849965312f69230,
         type: 3}
+      propertyPath: m_LocalAABB.m_Center.y
+      value: -5.1589394
+      objectReference: {fileID: 0}
+    - target: {fileID: 6331163739044684012, guid: 64fb001c79f9ab640849965312f69230,
+        type: 3}
       propertyPath: m_LocalAABB.m_Center.z
       value: 0
       objectReference: {fileID: 0}
@@ -11380,6 +11391,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalAABB.m_Extent.x
       value: 57.436737
+      objectReference: {fileID: 0}
+    - target: {fileID: 6331163739044684012, guid: 64fb001c79f9ab640849965312f69230,
+        type: 3}
+      propertyPath: m_LocalAABB.m_Extent.y
+      value: 12.301954
       objectReference: {fileID: 0}
     - target: {fileID: 6331163739044684012, guid: 64fb001c79f9ab640849965312f69230,
         type: 3}
@@ -11492,6 +11508,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6372339726176186657, guid: 7b1d9d3c1cec0f5419bd2b1ea4481e3c,
         type: 3}
+      propertyPath: m_LocalAABB.m_Center.y
+      value: -0.61420393
+      objectReference: {fileID: 0}
+    - target: {fileID: 6372339726176186657, guid: 7b1d9d3c1cec0f5419bd2b1ea4481e3c,
+        type: 3}
       propertyPath: m_LocalAABB.m_Center.z
       value: 0
       objectReference: {fileID: 0}
@@ -11499,6 +11520,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalAABB.m_Extent.x
       value: 6.00019
+      objectReference: {fileID: 0}
+    - target: {fileID: 6372339726176186657, guid: 7b1d9d3c1cec0f5419bd2b1ea4481e3c,
+        type: 3}
+      propertyPath: m_LocalAABB.m_Extent.y
+      value: 2.2510056
       objectReference: {fileID: 0}
     - target: {fileID: 6372339726176186657, guid: 7b1d9d3c1cec0f5419bd2b1ea4481e3c,
         type: 3}
